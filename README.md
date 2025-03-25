@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **python, machine learning, data engineering, and Go**
 
-- 📫 How to reach me **haylemicheal.mekonnen@gmail.com**
-
 - 👯 I’m looking to collaborate on **for a software engineering position with a company where I can advance my skills and learn best practices**
 
 - 📫 How to reach me **tesfaymebre@gmail.com**
